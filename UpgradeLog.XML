@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DroneClient">
+</Property><Property Name="Solution File" Value="C:\Users\Katja\Documents\Projects\DroneClient\DroneClient.sln">
+</Property><Property Name="Date" Value="14 мая 2012 г.">
+</Property><Property Name="Time" Value="3:59">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DroneClient.sln" Description="File successfully backed up as C:\Users\Katja\Documents\Projects\DroneClient\Backup\DroneClient.sln">
+</Event><Event ErrorLevel="0" Project="DroneClient" Source="DroneClient\DroneClient.csproj" Description="Project file successfully backed up as C:\Users\Katja\Documents\Projects\DroneClient\Backup\DroneClient\DroneClient.csproj">
+</Event><Event ErrorLevel="0" Project="DroneClient" Source="DroneClient\gtk-gui\generated.cs" Description="File successfully backed up as C:\Users\Katja\Documents\Projects\DroneClient\Backup\DroneClient\gtk-gui\generated.cs">
+</Event><Event ErrorLevel="0" Project="DroneClient" Source="DroneClient\MainWindow.cs" Description="File successfully backed up as C:\Users\Katja\Documents\Projects\DroneClient\Backup\DroneClient\MainWindow.cs">
+</Event><Event ErrorLevel="0" Project="DroneClient" Source="DroneClient\gtk-gui\MainWindow.cs" Description="File successfully backed up as C:\Users\Katja\Documents\Projects\DroneClient\Backup\DroneClient\gtk-gui\MainWindow.cs">
+</Event><Event ErrorLevel="0" Project="DroneClient" Source="DroneClient\Main.cs" Description="File successfully backed up as C:\Users\Katja\Documents\Projects\DroneClient\Backup\DroneClient\Main.cs">
+</Event><Event ErrorLevel="0" Project="DroneClient" Source="DroneClient\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Katja\Documents\Projects\DroneClient\Backup\DroneClient\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DroneClient" Source="DroneClient\gtk-gui\gui.stetic" Description="File successfully backed up as C:\Users\Katja\Documents\Projects\DroneClient\Backup\DroneClient\gtk-gui\gui.stetic">
+</Event><Event ErrorLevel="0" Project="DroneClient" Source="DroneClient\DroneClient.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DroneClient" Source="DroneClient\DroneClient.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DroneClient.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DroneClient.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DroneClient" Source="DroneClient\DroneClient.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
