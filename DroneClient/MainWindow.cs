@@ -1,6 +1,6 @@
 using System;
 using Gtk;
-
+// test -enzo
 public partial class MainWindow: Gtk.Window
 {	
 	public MainWindow (): base (Gtk.WindowType.Toplevel)
